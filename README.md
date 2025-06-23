@@ -1,1 +1,2 @@
-# Gesture-Controlled-Robotic-Car
+This project showcases a hand gesture-controlled robotic car that leverages an MPU6050 sensor and Bluetooth communication for real-time wireless control. By detecting tilt-based gestures from the user's hand, the system translates motions into directional commands, allowing the car to move forward, backward, left, or right. Built using Arduino Nano and Uno, the project demonstrates the integration of wearable sensors, embedded systems, and robotics for intuitive human-machine interaction.
+
